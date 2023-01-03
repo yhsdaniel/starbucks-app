@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/starbucks-app/static/css/main.67a5a2ca.css",
+    "main.js": "/starbucks-app/static/js/main.0999244f.js",
+    "static/js/787.20108e4e.chunk.js": "/starbucks-app/static/js/787.20108e4e.chunk.js",
+    "static/media/frapucino-pink.png": "/starbucks-app/static/media/frapucino-pink.b56443f17ab9d441d996.png",
+    "static/media/frapucino-green.png": "/starbucks-app/static/media/frapucino-green.592c18f927b363b98f0d.png",
+    "static/media/frapucino-purple.png": "/starbucks-app/static/media/frapucino-purple.e450923f681e1e56f82c.png",
+    "static/media/starbucks.png": "/starbucks-app/static/media/starbucks.34f0e6ca167eb5affa9c.png",
+    "index.html": "/starbucks-app/index.html",
+    "main.67a5a2ca.css.map": "/starbucks-app/static/css/main.67a5a2ca.css.map",
+    "main.0999244f.js.map": "/starbucks-app/static/js/main.0999244f.js.map",
+    "787.20108e4e.chunk.js.map": "/starbucks-app/static/js/787.20108e4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a5a2ca.css",
+    "static/js/main.0999244f.js"
+  ]
+}
